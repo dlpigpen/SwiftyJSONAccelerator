@@ -30,6 +30,7 @@ Status](https://travis-ci.org/insanoid/SwiftyJSONAccelerator.svg?branch=master)]
   ```
 
 - **Application Only:** [Download the .app (v1.4.0)](https://github.com/insanoid/SwiftyJSONAccelerator/releases/download/v1.4.0/SwiftyJSONAccelerator.zip)
+Security on Mac Catalina: xattr -d com.apple.quarantine --path-to-app
 
 ## Features
 
